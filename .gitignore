@@ -178,3 +178,6 @@ utils/metastore_db/
 
 # Virtual environments
 cli_dev
+
+# DS Store files from mac
+*.DS_Store
